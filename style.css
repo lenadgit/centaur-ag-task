@@ -1,0 +1,121 @@
+	
+
+	.wrapper {
+		width: 360px;
+		height: 560px;
+		background: #E6B289;
+	}
+
+	#drag1 {
+		width: 50px;
+		height: 50px;
+		margin-top: 5px;
+	}
+	#drag2 {
+		width: 50px;
+		height: 50px;
+		margin-top: 5px;
+	}
+	#drag3 {
+		width: 50px;
+		height: 50px;
+		margin-top: 5px;
+	}
+	#drag4 {
+		width: 50px;
+		height: 50px;
+		margin-top: 5px;
+	}
+
+	.img {
+		display: block;
+		}
+
+	#div1 {
+		margin-left: 80px;
+		width: 150px;
+		height: 135px;
+		padding: 0 50px;
+		border: 1px solid red;
+	}
+
+	#div2 {
+		margin-left: 80px;
+		width: 150px;
+		height: 135px;
+		padding: 0 50px;
+		border: 1px solid red;
+	}
+	#div3 {
+		margin-left: 80px;
+		width: 150px;
+		height: 135px;
+		padding: 0 50px;
+		border: 1px solid red;
+	}
+	#div4 {
+		margin-left: 80px;
+		width: 150px;
+		height: 135px;
+		padding: 0 50px;
+		border: 1px solid red;
+	}
+
+	.clearfix {
+		clear: both;
+	}
+
+	.img-wrapper {
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+
+	.point {
+		position: relative;
+		display: block;
+		margin: 50px auto 0;
+		width: 20px;
+		height: 20px;
+		border-radius: 50%;
+		border: 5px solid black;
+	}
+
+	.popup {
+		position: absolute;
+    	width: 200px;
+		height: 200px;
+		border-radius: 4px;
+		background: #cfcfcf;
+		top: 20px;
+		left: 105px;
+	}
+
+	.popup-1 {
+		display: none;
+	}
+
+	.time-wrapper {
+		width: 180px;
+		height: 30px;
+		background: gray;
+		display: block;
+		margin: 0 auto 20px;
+	}
+
+	.close {
+		display: block;
+		position: absolute;
+		top: 10px;
+		right: 10px;
+	}
+
+	.input-text {
+		display: block;
+		margin: 30px auto;
+	}
+
+	.submit {
+		display: block;
+		margin: 20px auto 0;
+	}
